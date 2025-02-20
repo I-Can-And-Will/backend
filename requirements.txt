@@ -1,4 +1,4 @@
 requests==2.31.0
-Flask==3.0.2
-Flask-Cors==4.0.0
+Flask==2.3.2        # or just "Flask" without a version
+Flask-Cors==3.0.10  # latest stable on PyPI
 youtube-transcript-api==0.6.3
