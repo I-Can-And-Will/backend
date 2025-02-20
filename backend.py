@@ -1,3 +1,4 @@
+import os  # Add this import
 from flask import Flask, jsonify, request
 from youtube_transcript_api import YouTubeTranscriptApi
 from flask_cors import CORS
